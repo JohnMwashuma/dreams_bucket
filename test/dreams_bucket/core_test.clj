@@ -1,6 +1,6 @@
-(ns blog.core-test
+(ns dreams_bucket.core-test
   (:require [clojure.test :refer :all]
-            [blog.core :refer :all]))
+            [dreams_bucket.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
