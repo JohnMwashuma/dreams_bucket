@@ -7,4 +7,7 @@
                  [ring "1.3.2"]
                  ;; Used for routing
                  [compojure "1.5.1"]
-                 [enlive "1.1.6"]])
+                 [enlive "1.1.6"]
+                 ;; Postgres and Jdbc Drivers
+                 [org.clojure/java.jdbc "0.2.3"]
+                 [postgresql/postgresql "9.1-901.jdbc4"]])
